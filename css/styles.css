@@ -56,7 +56,7 @@ a {
   margin-right: 76px;
 }
 
-.cont .logo {
+.logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -158,7 +158,7 @@ a {
 
 /* core */
 
-.core {
+.section {
   padding: 120px 0;
 }
 .core-container {
@@ -193,7 +193,6 @@ a {
 
 .team {
   background-color: #f4f4fd;
-  padding: 120px 0;
 }
 
 .team-title {
@@ -244,7 +243,6 @@ a {
 /* portfolio */
 
 .portfolio {
-  padding: 120px 0;
 }
 
 .portfolio-title {
@@ -267,8 +265,6 @@ a {
 
 .portfolio-item {
   border-bottom: 1px solid #e7e9fc;
-  border-left: 1px solid #e7e9fc;
-  border-right: 1px solid #e7e9fc;
   width: calc((100% - 24px * 3) / 4);
 }
 
